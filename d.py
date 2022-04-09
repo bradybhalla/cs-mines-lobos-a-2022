@@ -1,3 +1,5 @@
+# solved
+
 K = float(input())
 N = int(input())
 R = int(input())

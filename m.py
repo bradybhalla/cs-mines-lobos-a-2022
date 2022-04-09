@@ -1,3 +1,5 @@
+# solved
+
 symbols = [input().lower() for i in range(int(input()))]
 
 memo = {}

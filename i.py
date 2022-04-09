@@ -1,3 +1,5 @@
+# solved
+
 costs = {}
 info = {}
 

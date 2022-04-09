@@ -1,3 +1,5 @@
+# solved
+
 from functools import reduce
 
 N, T = map(int, input().split(" "))

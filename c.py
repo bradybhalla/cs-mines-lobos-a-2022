@@ -1,3 +1,8 @@
+# almost solved
+
+# it worked fine for everything I tested
+# I probably forgot an edge case
+
 import math
 
 def angle_diff(a1, a2, diff):

@@ -1,3 +1,8 @@
+# not solved
+
+# I had something that almost worked (although it probably was too slow)
+# but I changed things to try to get it working and now it doesn't work at all
+
 import math
 
 class Restrictions:
